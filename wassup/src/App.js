@@ -1,9 +1,15 @@
 import React from 'react';
 import Background from './Background';
+import Container from './Container';
+import Logo from './Logo';
+import SocialIcons from './SocialIcons';
 
 const App = () => (
   <Background>
-    <h2>Welcome to Wassup</h2>
+    <Container>
+      <Logo />
+      <SocialIcons />
+    </Container>
   </Background>
 );
 
