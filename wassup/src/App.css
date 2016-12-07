@@ -1,5 +1,7 @@
 .Background {
   display: flex;
+  flex: 1;
+  flex-direction: row;
   background: url(background.jpg) no-repeat top center;
   background-size: cover;    
   padding-top: 1%;
