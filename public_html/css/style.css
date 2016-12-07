@@ -46,13 +46,13 @@ h2 {
     padding-top:2em;
     padding-bottom:2em;  
     overflow:auto;
-   }
+ }
    
 .header .container {
     width: 90%;
     max-width: 800px; 
     margin: auto;
-   }
+ }
    
 .header .col1 {
     float: left;
